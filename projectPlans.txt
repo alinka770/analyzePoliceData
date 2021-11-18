@@ -1,0 +1,12 @@
+1 week:
+
+Done:
+
+I received data for research. I examined the data for gaps and did an initial analysis of the data.
+I analyzed the type of received data and built visual graphs for some of the data.
+
+To do:
+
+Analyze data by different parameters, by city of crime, by age, by category of crime. 
+Add a column to the data with the distribution to which part (north, south, center) the crime belongs. 
+Analyze with gaps and no gaps.
