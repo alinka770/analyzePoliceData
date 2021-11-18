@@ -9,4 +9,4 @@ To do:
 
 Analyze data by different parameters, by city of crime, by age, by category of crime. 
 Add a column to the data with the distribution to which part (north, south, center) the crime belongs. 
-Analyze with gaps and no gaps.
+Analyze with with and without missing values.
