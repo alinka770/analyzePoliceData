@@ -10,3 +10,15 @@ To do:
 Analyze data by different parameters, by city of crime, by age, by category of crime. 
 Add a column to the data with the distribution to which part (north, south, center) the crime belongs. 
 Analyze with with and without missing values.
+
+
+2 week:
+
+Done:
+Analyzed data by different parameters, by city of crime, by age, by category of crime. 
+Added a column to the data with the distribution to which part (north, south, center) the crime belongs. 
+Analyzed with with and without missing values.
+
+To do:
+
+Report in English with graphics. Find data about people with drive licenses.
